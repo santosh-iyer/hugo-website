@@ -1,12 +1,12 @@
 ---
-title: "My First Post"
+title: "Hello Slalom Boston Brown Bag attendees!"
 date: 2020-09-11T10:43:44-04:00
 draft: false
 ---
 
 ### Hello Slalom Boston Brown Bag attendees!
 
-#### Building your own FREE static website in 5 minutes
+#### Build your own FREE static website in 5 minutes
 Today we will cover
 
 * Getting started with static site generators like Hugo
